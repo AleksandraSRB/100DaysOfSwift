@@ -1,0 +1,3 @@
+apple.com
+hackingwithswift.com
+google.com
